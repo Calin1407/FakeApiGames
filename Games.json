@@ -1,0 +1,84 @@
+{
+  "games": [
+    {
+      "id": 1.0,
+      "name": "OpenTTD",
+      "company": "OpenTTD Team",
+      "realizeYear": 2004,
+      "saga": false,
+      "logo": "https://raw.githubusercontent.com/Calin1407/FakeApiGames/main/LogoGames/OpenTTD.jpg"
+    },
+    {
+      "id": 2.0,
+      "name": "SuperTuxKart",
+      "company": "STK Development Team",
+      "realizeYear": 2007,
+      "saga": true,
+      "logo": "https://raw.githubusercontent.com/Calin1407/FakeApiGames/main/LogoGames/SuperTuxKart.jpg"
+    },
+    {
+      "id": 3.0,
+      "name": "MegaGlest",
+      "company": "MegaGlest Team",
+      "realizeYear": 2004,
+      "saga": true,
+      "logo": "https://raw.githubusercontent.com/Calin1407/FakeApiGames/main/LogoGames/MegaGlest.jpg"
+    },
+    {
+      "id": 4.0,
+      "name": "The Battle for Wesnoth",
+      "company": "Wesnoth Team",
+      "realizeYear": 2003,
+      "saga": true,
+      "logo": "https://raw.githubusercontent.com/Calin1407/FakeApiGames/main/LogoGames/BattleForWesnoth.jpg"
+    },
+    {
+      "id": 5.0,
+      "name": "Xonotic",
+      "company": "Xonotic Team",
+      "realizeYear": 2010,
+      "saga": false,
+      "logo": "https://raw.githubusercontent.com/Calin1407/FakeApiGames/main/LogoGames/Xonotic.jpg"
+    },
+    {
+      "id": 6.0,
+      "name": "FreeCiv",
+      "company": "FreeCiv Developers",
+      "realizeYear": 1996,
+      "saga": true,
+      "logo": "https://raw.githubusercontent.com/Calin1407/FakeApiGames/main/LogoGames/FreeCiv.jpg"
+    },
+    {
+      "id": 7.0,
+      "name": "OpenLieroX",
+      "company": "OpenLieroX Team",
+      "realizeYear": 2006,
+      "saga": false,
+      "logo": "https://raw.githubusercontent.com/Calin1407/FakeApiGames/main/LogoGames/OpenLieroX.jpg"
+    },
+    {
+      "id": 8.0,
+      "name": "Warzone 2100",
+      "company": "Warzone 2100 Project",
+      "realizeYear": 1999,
+      "saga": false,
+      "logo": "https://raw.githubusercontent.com/Calin1407/FakeApiGames/main/LogoGames/Warzone2100.jpg"
+    },
+    {
+      "id": 9.0,
+      "name": "0 A.D.",
+      "company": "Wildfire Games",
+      "realizeYear": 2010,
+      "saga": false,
+      "logo": "https://raw.githubusercontent.com/Calin1407/FakeApiGames/main/LogoGames/0A.D..jpg"
+    },
+    {
+      "id": 10.0,
+      "name": "FlightGear",
+      "company": "FlightGear Team",
+      "realizeYear": 1997,
+      "saga": false,
+      "logo": "https://raw.githubusercontent.com/Calin1407/FakeApiGames/main/LogoGames/FlightGear.jpg"
+    }
+  ]
+}
